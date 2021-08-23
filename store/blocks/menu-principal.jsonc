@@ -1,0 +1,138 @@
+{
+    "vtex.menu@2.x:menu#principal": {
+        "props": {
+          "items": [
+            {
+              "id": "menu-item-promoção",
+              "type": "custom",
+              "iconId": null,
+              "highlight": false,
+              "itemProps": {
+                "type": "internal",
+                "href": "/promoção",
+                "noFollow": false,
+                "tagTitle": "promoção",
+                "text": "PROMOÇÃO"
+              }
+            },
+            {
+                "id": "menu-item-corinthians",
+                "type": "custom",
+                "iconId": null,
+                "highlight": false,
+                "itemProps": {
+                  "type": "internal",
+                  "href": "/corinthians",
+                  "noFollow": false,
+                  "tagTitle": "corinthians",
+                  "text": "CORINTHIANS"
+                }
+              },
+              {
+                "id": "menu-item-palmeiras",
+                "type": "custom",
+                "iconId": null,
+                "highlight": false,
+                "itemProps": {
+                  "type": "internal",
+                  "href": "/palmeiras",
+                  "noFollow": false,
+                  "tagTitle": "palmeiras",
+                  "text": "PALMEIRAS"
+                }
+              },
+              {
+                "id": "menu-item-signos",
+                "type": "custom",
+                "iconId": null,
+                "highlight": false,
+                "itemProps": {
+                  "type": "internal",
+                  "href": "/signos",
+                  "noFollow": false,
+                  "tagTitle": "signos",
+                  "text": "SIGNOS"
+                }
+              },
+              {
+                "id": "menu-item-divertidos",
+                "type": "custom",
+                "iconId": null,
+                "highlight": false,
+                "itemProps": {
+                  "type": "internal",
+                  "href": "/divertidos",
+                  "noFollow": false,
+                  "tagTitle": "divertidos",
+                  "text": "DIVERTIDOS"
+                }
+              },
+              {
+                "id": "menu-item-7maravilhas",
+                "type": "custom",
+                "iconId": null,
+                "highlight": false,
+                "itemProps": {
+                  "type": "internal",
+                  "href": "/7maravilhas",
+                  "noFollow": false,
+                  "tagTitle": "7maravilhas",
+                  "text": "7MARAVILHAS"
+                }
+              },
+              {
+                "id": "menu-item-guerreiros",
+                "type": "custom",
+                "iconId": null,
+                "highlight": false,
+                "itemProps": {
+                  "type": "internal",
+                  "href": "/guerreiros",
+                  "noFollow": false,
+                  "tagTitle": "guerreiros",
+                  "text": "GUERREIROS"
+                }
+              },
+              {
+                "id": "menu-item-album1",
+                "type": "custom",
+                "iconId": null,
+                "highlight": false,
+                "itemProps": {
+                  "type": "internal",
+                  "href": "/album1",
+                  "noFollow": false,
+                  "tagTitle": "album1",
+                  "text": "ÁLBUM1"
+                }
+              },
+              {
+                "id": "menu-item-album2",
+                "type": "custom",
+                "iconId": null,
+                "highlight": false,
+                "itemProps": {
+                  "type": "internal",
+                  "href": "/album2",
+                  "noFollow": false,
+                  "tagTitle": "album2",
+                  "text": "ÁLBUM2"
+                }
+              },
+              {
+                "id": "menu-item-album3",
+                "type": "custom",
+                "iconId": null,
+                "highlight": false,
+                "itemProps": {
+                  "type": "internal",
+                  "href": "/album3",
+                  "noFollow": false,
+                  "tagTitle": "album3",
+                  "text": "ÁLBUM3"
+                }
+              }
+          ]
+        }
+      }
+}
